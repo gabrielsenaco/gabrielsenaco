@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi, I'm Gabriel Sena, I'm Brazilian :brazil:.
+Hi! I'm Gabriel!
 
-I'm always developing and learning new things to solve problems. I enjoy working with JavaScript and its tools built by the large open source community.
+I develop and learn new things to solve problems. Usually, I work with JavaScript and it's tools built by the large community.
 
 #### :zap: Technologies used
 Here are some techs/tools that I have used
