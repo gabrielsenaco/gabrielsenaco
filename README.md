@@ -3,10 +3,11 @@ Hi! I'm Gabriel!
 
 I develop and learn new things to solve problems. Usually, I work with JavaScript and it's tools built by the large community.
 
+<!-- TODO - BUILD TECHS USED
 #### :zap: Technologies used
 Here are some techs/tools that I have used
-
-<!--
+-->
+<!-- EXTRA STUFFS
 **gabrielsenaco/gabrielsenaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
