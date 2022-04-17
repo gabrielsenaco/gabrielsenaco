@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi, I'm Gabriel Sena, I'm Brazilian :brazil:.
+
+I'm always developing and learning new things to solve problems. I enjoy working with JavaScript and its tools built by the large open source community.
+
+#### :zap: Technologies used
+Here are some techs/tools that I have used
 
 <!--
 **gabrielsenaco/gabrielsenaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
